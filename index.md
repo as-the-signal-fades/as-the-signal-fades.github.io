@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Hello World
 I'm hosted with GitHub Pages.
 
 ## Latest Posts
